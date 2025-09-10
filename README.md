@@ -9,16 +9,25 @@ e da **Rede de Bibliotecas pela Paz**.
 
 ## 📖 Histórias de Usuário
 
-1. **Como cidadão**, quero consultar os dados de localização das bibliotecas da Rede pela Paz, para identificar a unidade mais próxima da minha residência.  
-2. **Como estudante**, quero visualizar o número de atendimentos registrados em cada unidade do Compaz, para entender o impacto social de cada centro na comunidade.  
-3. **Como pesquisador**, quero baixar os dados históricos de acessos à biblioteca do Compaz Paulo Freire, para analisar a evolução da participação desde sua inauguração.  
-4. **Como jornalista**, quero acessar os dados de frequência anual dos Compaz, para produzir matérias sobre políticas públicas de segurança e cidadania em Recife.  
-5. **Como desenvolvedor**, quero conectar os dados abertos de bibliotecas e Compaz a um mapa interativo, para facilitar a visualização das unidades e dos serviços disponíveis.  
-6. **Como professor**, quero utilizar os dados de oficinas e eventos oferecidos no Compaz, para planejar atividades extracurriculares com meus alunos.  
-7. **Como gestor público**, quero analisar os dados de acessibilidade disponíveis nas bibliotecas da rede, para priorizar investimentos em melhorias de inclusão.  
-8. **Como morador**, quero acessar os dados de serviços de cidadania do Compaz (ex.: atendimentos jurídicos, Conecta Recife), para entender como esses serviços podem me beneficiar.  
-9. **Como analista de políticas públicas**, quero comparar os dados de uso das bibliotecas populares e das bibliotecas do Compaz, para avaliar quais modelos têm maior impacto social.  
-10. **Como ONG parceira**, quero baixar e organizar os dados de participação em atividades culturais, para propor projetos alinhados às demandas reais da comunidade.  
+1 - **Como cidadão**, quero analisar os dados de distância e acessibilidade das bibliotecas da Rede pela Paz, para identificar qual unidade é mais conveniente para frequentar.
+
+2 - **Como estudante**, quero comparar os atendimentos registrados nas diferentes unidades do Compaz, para entender quais centros têm maior impacto na comunidade estudantil.
+
+3 - **Como pesquisador**, quero analisar a série histórica de acessos à biblioteca do Compaz Paulo Freire, para identificar tendências de crescimento ou queda na participação desde sua inauguração.
+
+4 - **Como jornalista**, quero examinar os dados de frequência anual das unidades do Compaz, para produzir reportagens que relacionem políticas públicas com a evolução do engajamento comunitário.
+
+5 - **Como desenvolvedor**, quero analisar a distribuição geográfica das bibliotecas e Compaz em relação aos indicadores sociais dos bairros, para identificar áreas com menor cobertura de serviços e maior demanda potencial.
+
+6 - **Como professor**, quero analisar os dados de participação em oficinas e eventos culturais, para planejar atividades extracurriculares alinhadas aos interesses reais dos alunos.
+
+7 - **Como gestor público**, quero avaliar os dados de acessibilidade das bibliotecas da rede, para priorizar investimentos em inclusão de acordo com a maior necessidade.
+
+8 - **Como morador**, quero analisar os dados de serviços de cidadania oferecidos pelo Compaz, para entender quais são os mais utilizados e como eles contribuem para a melhoria da qualidade de vida.
+
+9 - **Como analista de políticas públicas**, quero comparar o uso das bibliotecas populares com as do Compaz, para avaliar qual modelo apresenta maior impacto social e educacional.
+
+10 - **Como ONG parceira**, quero identificar padrões de participação em atividades culturais, para propor novos projetos que respondam às demandas observadas nos dados da comunidade.
 
 ---
 
