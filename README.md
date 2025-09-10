@@ -31,6 +31,14 @@ e da **Rede de Bibliotecas pela Paz**.
      
 ---
 
+## ⚙️ Ferramentas tecnológicas
+
+Para o desenvolvimento desse projeto utilizamos:
+
+* [Jira](https://cesar-team-mmm8gzb5.atlassian.net/jira/software/projects/PCRDBPP/boards/34)
+* 
+*
+
 ## ⚙️ Backlog
 
 ![Blacklog](https://github.com/byteric/Projeto-COMPAZ-Rede-de-Bibliotecas-pela-Paz/blob/main/img/blacklogjira.png)
