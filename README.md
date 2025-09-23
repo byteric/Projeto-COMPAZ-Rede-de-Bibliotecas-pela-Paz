@@ -45,7 +45,7 @@ e da **Rede de Bibliotecas pela Paz**.
 Para o desenvolvimento desse projeto utilizamos:
 
 * [Jira](https://cesar-team-mmm8gzb5.atlassian.net/jira/software/projects/PCRDBPP/boards/34)
-* 
+* [Figma](https://www.figma.com/board/Or7ZdpdvRWJNwI1vKsj7gi/Sem-t%C3%ADtulo?node-id=1-242&t=yt7lMzvrxoL2K3mm-0)
 *
 
 ## ⚙️ Backlog
@@ -59,3 +59,7 @@ Para o desenvolvimento desse projeto utilizamos:
 ![Quadro](https://github.com/byteric/Projeto-COMPAZ-Rede-de-Bibliotecas-pela-Paz/blob/main/img/quadrojira.png)
 
 ---
+
+## 🖼️ Diagramas de Atividades
+
+* [Link de Acesso as imagens](https://drive.google.com/drive/folders/1V5F6AgSNj2t0ySQMe4Se4oiKlXOzyvCM?usp=sharing)
