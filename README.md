@@ -75,6 +75,6 @@ Para o desenvolvimento desse projeto utilizamos:
 
 ## 📖 Storyboards
 
-* [Link de Acesso](https://miro.com/app/board/uXjVJ67CnFQ=/)
+* [Link de Acesso](https://miro.com/app/board/uXjVJ67CnFQ=/?share_link_id=866470004375)
 
 ---
