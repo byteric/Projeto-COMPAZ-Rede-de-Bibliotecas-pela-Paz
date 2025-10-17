@@ -45,6 +45,7 @@ e da **Rede de Bibliotecas pela Paz**.
 Para o desenvolvimento desse projeto utilizamos:
 
 * [Jira](https://cesar-team-mmm8gzb5.atlassian.net/jira/software/projects/PCRDBPP/boards/34)
+* [Trello](https://trello.com/b/CqDc2yyq/meu-quadro-do-trello)
 * [Figma](https://www.figma.com/board/Or7ZdpdvRWJNwI1vKsj7gi/Sem-t%C3%ADtulo?node-id=1-242&t=yt7lMzvrxoL2K3mm-0)
 *
 
@@ -63,3 +64,17 @@ Para o desenvolvimento desse projeto utilizamos:
 ## 🖼️ Diagramas de Atividades
 
 * [Link de Acesso as imagens](https://drive.google.com/drive/folders/1V5F6AgSNj2t0ySQMe4Se4oiKlXOzyvCM?usp=sharing)
+
+---
+
+## 📝 Sketches
+
+* [Link de Acesso](https://www.figma.com/board/Or7ZdpdvRWJNwI1vKsj7gi/Sem-t%C3%ADtulo?node-id=7-489&t=Xn4crF8HcsddXaB3-0)
+
+---
+
+## 📖 Storyboards
+
+* [Link de Acesso](https://miro.com/app/board/uXjVJ67CnFQ=/)
+
+---
